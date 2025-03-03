@@ -40,7 +40,7 @@ All
 https://learn.microsoft.com/en-us/credentials/browse/?products=azure&credential_types=applied%20skills&roles=administrator
 
 
-## If you ever get doen with that.......
+## If you ever get done with that.......
 
 
 
