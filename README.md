@@ -34,6 +34,8 @@ https://learn.microsoft.com/en-us/training/browse/?products=azure&roles=administ
 
 ### Secure storage for Azure Files and Azure Blob Storage (Done)
 
+https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/
+
 ### Deploy and administer Linux virtual machines on Microsoft Azure
 
 https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-administer-linux-virtual-machines-on-microsoft-azure/
