@@ -15,7 +15,7 @@ Labs
 * https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/tree/master/Allfiles/Labs
 
 
-Get cert quick guide
+## Azure Administrator AZ-104 score 770
 
 https://github.com/spawnmarvel/quickguides/tree/main/azure
 
