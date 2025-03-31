@@ -15,12 +15,13 @@ Labs
 * https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/tree/master/Allfiles/Labs
 
 
+## Check the labs and files above from time to time and do them again
+
 ## Azure Administrator AZ-104 score 770
 
 https://github.com/spawnmarvel/quickguides/tree/main/azure
 
 
-## Check the labs from time to time and do them again
 
 
 
