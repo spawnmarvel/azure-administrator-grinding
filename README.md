@@ -15,6 +15,11 @@ Labs
 * https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/tree/master/Allfiles/Labs
 
 
+Get cert quick guide
+
+https://github.com/spawnmarvel/quickguides/tree/main/azure
+
+
 ## Browse all training Azure administrator (763 results)
 
 * Get MS points
