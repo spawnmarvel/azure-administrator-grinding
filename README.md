@@ -20,13 +20,6 @@ Get cert quick guide
 https://github.com/spawnmarvel/quickguides/tree/main/azure
 
 
-## Browse all training Azure administrator (763 results)
-
-* Get MS points
-* This could be 5 min
-
-https://learn.microsoft.com/en-us/training/browse/?products=azure&roles=administrator
-
 
 ## Applied skills (9 results)
 
@@ -48,6 +41,16 @@ https://learn.microsoft.com/en-us/credentials/browse/?products=azure&credential_
 
 
 ## If you ever get done with that.......
+
+
+## Browse all training Azure administrator (763 results)
+
+* Get MS points
+* This could be 5 min
+
+https://learn.microsoft.com/en-us/training/browse/?products=azure&roles=administrator
+
+
 
 
 
