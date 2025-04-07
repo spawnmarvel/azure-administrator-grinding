@@ -24,12 +24,3 @@ https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-administ
 
 https://learn.microsoft.com/en-us/credentials/browse/?products=azure&credential_types=applied%20skills&roles=administrator
 
-
-## If you ever get done with that....... or need a break
-
-Browse all training Azure administrator (763 results)
-
-* Get MS points
-* This could be 5 min
-
-https://learn.microsoft.com/en-us/training/browse/?products=azure&roles=administrator
