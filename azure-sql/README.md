@@ -9,6 +9,8 @@ https://learn.microsoft.com/en-us/azure/azure-sql/database/free-offer?view=azure
 https://learn.microsoft.com/en-us/training/modules/provision-azure-sql-db/?source=recommendations
 
 
+# Misc
+
 ## Introduction to SQL Server on Linux (ok done)
 
 Why use SQL Server on Linux?
